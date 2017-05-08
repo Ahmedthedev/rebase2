@@ -6,4 +6,3 @@ ajotu d'une feature
 
 on continue les ajout ahmedthedev
 ajout d'ahmedhachemi
-o
